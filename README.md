@@ -1,5 +1,5 @@
 # react-tutorial
-( webpack + react ) 튜토리얼 따라하기 
+webpack + react 기본 튜토리얼 따라하기 
 
 
 # 시작하기
